@@ -104,7 +104,7 @@ public class SchoolAdminSystem {
        
         for (Person p : people) {
             p.showRole(); 
-            System.out.println("-------------------------------");
+            System.out.println("------------------------------");
         }
 
         scanner.close(); 
